@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExplicityIntent</string>
+    <string name="activity_01">ACTIVITY 01</string>
+    <string name="go_activity_02">GO ACTIVITY 02</string>
+    <string name="activity_02">ACTIVITY 02</string>
+    <string name="go_to_activity_01">GO TO ACTIVITY 01</string>
+    <string name="go_to_activity_02">GO TO ACTIVITY 02</string>
+</resources>
